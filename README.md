@@ -38,6 +38,11 @@ led to 1 after a sequence of step in each step number is replaced by sum of
 235
 2!+3!+5!
 2+6+120=128 (Not Krishnmurty number)</pre></li><hr>
+  <li><h3>  Palindrome Number :</h3>
+    <b>A number said to be a palindrome number if reverse of number is it self number.</b>
+<pre>Example 
+121 (Its a palindrome number)
+1212 (It's not a palindrome number)</pre></li><hr>
     </ol>
 <h4>Contact for help regarding execution of programs and logics.</h4> 
 <b><a href="https://mail.google.com/mail/u/1/#inbox?compose=VpCqJbPWSnzGvNkrQRMNcGvhqXHNQGGlnWRprSwjPqsRKsZtXNRSsWpwLCnjwNmJTPGxBGq">pdivakarpal@gmail.com</a></b>
