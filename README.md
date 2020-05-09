@@ -1,7 +1,28 @@
-# MagicNumber
+# Magical Number
 This repository is developed to containing solution of program of magical number.
-<h3>Developed By</h3> 
-<h3>Divakar Pal <a href="https://github.com/MDivakarPal">(MDivakarPal)</a></h3>
+<h3>Developed By :- Divakar Pal <a href="https://github.com/MDivakarPal">(MDivakarPal)</a></h3>
+<ol>
+  <li><h3>Happy Number </h3>
+    <b>A number is called happy number if sum of square of its digits
+led to 1 after a sequence of step in each step number is replaced by sum of
+      square of its digits.</b><br>
+    <h4>Example</h4>
+    <pre>19
+1^2+9^2=82
+8^2+2^2=68
+6^2+8^2=100
+1^2+0+0=1 (Happy number)
+20
+ 2^2+0^2=4
+ 4^2=16
+ 1^2+6^2=37
+ 3^2+7^2=58
+ 5^2+8^2=89
+ 8^2+9^2=145
+ 1^2+4^2+5^2=42
+ 4^2+2^2=20
+ 2^2+0^2=4 (Not Happy Number)</pre>
+    </ol>
 <h4>Contact for help regarding execution of programs and logics.</h4> 
 <b><a href="https://mail.google.com/mail/u/1/#inbox?compose=VpCqJbPWSnzGvNkrQRMNcGvhqXHNQGGlnWRprSwjPqsRKsZtXNRSsWpwLCnjwNmJTPGxBGq">pdivakarpal@gmail.com</a></b>
 <h4><a href="https://docs.google.com/forms/d/e/1FAIpQLSeT3cVPGKTGGD7Kln8Yxy5sykAtxC98U05jHiZJeSugyxiokA/viewform?usp=sf_link" target="_blank">Help Desk</a></h4>
