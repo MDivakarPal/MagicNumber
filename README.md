@@ -21,7 +21,23 @@ led to 1 after a sequence of step in each step number is replaced by sum of
  8^2+9^2=145
  1^2+4^2+5^2=42
  4^2+2^2=20
- 2^2+0^2=4 (Not Happy Number)</pre>
+ 2^2+0^2=4 (Not Happy Number)</pre></li>
+    <hr>
+  <li><h3>Disarium number </h3>
+<b>Disarium number is a number whose sum of digit of power of respective position is 
+  it selft number.</b>
+<pre>Example : -
+135
+1^1+3^2+5^3=135 (Disarium number)</pre></li><hr>
+  <li><h3>Krishnamurti Number</h3>
+    <b>Krishnmurty number is a number whose sum of factorial of digit itself number.</b>
+<pre>Example
+145
+1!+4!+5!
+1+24+120=145 (Krishnmurty number)
+235
+2!+3!+5!
+2+6+120=128 (Not Krishnmurty number)</pre></li><hr>
     </ol>
 <h4>Contact for help regarding execution of programs and logics.</h4> 
 <b><a href="https://mail.google.com/mail/u/1/#inbox?compose=VpCqJbPWSnzGvNkrQRMNcGvhqXHNQGGlnWRprSwjPqsRKsZtXNRSsWpwLCnjwNmJTPGxBGq">pdivakarpal@gmail.com</a></b>
