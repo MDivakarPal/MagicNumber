@@ -46,7 +46,14 @@ led to 1 after a sequence of step in each step number is replaced by sum of
   <li><h3>A number is Perfect Square Or Not</h3>
     <pre>Example
     16 -> (Perfect Square)
-    14 -> (Not Perfect Square)</pre></li>
+    14 -> (Not Perfect Square)</pre></li><hr>
+  <li><h3>Astromorphic Number :-</h3>
+<b>A number is astromorphic number if square of number contains numbesr at last singificant digit.</b>
+<pre>Example :
+5 = 5^2 =25 (Astromorphic number)
+76-> 76^2 =5776 (Astromorphic number)
+ 7-> 7^2 = 49 (Not Astromorphic number)</pre></li><hr>
+
     </ol>
 <h4>Contact for help regarding execution of programs and logics.</h4> 
 <b><a href="https://mail.google.com/mail/u/1/#inbox?compose=VpCqJbPWSnzGvNkrQRMNcGvhqXHNQGGlnWRprSwjPqsRKsZtXNRSsWpwLCnjwNmJTPGxBGq">pdivakarpal@gmail.com</a></b>
