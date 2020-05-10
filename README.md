@@ -43,6 +43,10 @@ led to 1 after a sequence of step in each step number is replaced by sum of
 <pre>Example 
 121 (Its a palindrome number)
 1212 (It's not a palindrome number)</pre></li><hr>
+  <li><h3>A number is Perfect Square Or Not</h3>
+    <pre>Example
+    16 -> (Perfect Square)
+    14 -> (Not Perfect Square)</pre></li>
     </ol>
 <h4>Contact for help regarding execution of programs and logics.</h4> 
 <b><a href="https://mail.google.com/mail/u/1/#inbox?compose=VpCqJbPWSnzGvNkrQRMNcGvhqXHNQGGlnWRprSwjPqsRKsZtXNRSsWpwLCnjwNmJTPGxBGq">pdivakarpal@gmail.com</a></b>
